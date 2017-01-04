@@ -6,5 +6,5 @@
 	<?php get_template_part( 'templates/video', 'tpl' ); ?>
 	<?php get_template_part( 'templates/slide-eventos', 'tpl' ); ?>
 	<?php get_template_part( 'templates/conheca-nossos-cursos', 'tpl' ); ?>
-	<!-- Master - Adcionei linha 9 -->
+	<!-- Master - Adcionei linha 9anassaassaldsank -->
 <?php get_footer(); ?>
