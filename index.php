@@ -7,4 +7,12 @@
 	<?php get_template_part( 'templates/slide-eventos', 'tpl' ); ?>
 	<?php get_template_part( 'templates/conheca-nossos-cursos', 'tpl' ); ?>
 	<!-- Other 3 -->
+<!-- Other 3 -->
+
+<!-- Other 3 -->
+
+<!-- Other 3 -->
+
+<!-- Other 3 -->
+
 <?php get_footer(); ?>
