@@ -6,5 +6,5 @@
 	<?php get_template_part( 'templates/video', 'tpl' ); ?>
 	<?php get_template_part( 'templates/slide-eventos', 'tpl' ); ?>
 	<?php get_template_part( 'templates/conheca-nossos-cursos', 'tpl' ); ?>
-	<!-- Other -->
+	<!-- Other 2 -->
 <?php get_footer(); ?>
