@@ -1,5 +1,5 @@
 <?php get_header(); ?>
-
+	<!--  asdmaskm	 -->
 	<?php get_template_part( 'templates/header-menu', 'tpl' ); ?>
 	<?php get_template_part( 'templates/banner', 'tpl' ); ?>
 	<?php get_template_part( 'templates/leia-mais', 'tpl' ); ?>
